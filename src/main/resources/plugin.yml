@@ -1,0 +1,7 @@
+name: test
+author: ayumi
+main: icu.ayumi.tempbans.TempBanPlugin
+version: 0.1
+commands:
+  tempban:
+  unban:
